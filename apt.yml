@@ -1,0 +1,7 @@
+--- 
+packages: 
+  - openjdk-8-jre
+repos: 
+  - deb http://ppa.launchpad.net/openjdk-r/ppa/ubuntu trusty main
+keys: 
+  - https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xEB9B1D8886F44E2A

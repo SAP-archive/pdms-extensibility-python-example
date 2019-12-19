@@ -1,0 +1,12 @@
+---
+applications:
+- name: extensibility-ml-app
+  health-check-type: process
+  command: while [ 1 == 1 ]; do sleep 9999; done
+  no-route: true
+  buildpacks:
+    - https://github.com/cloudfoundry/multi-buildpack
+  env:
+    AC_KEY: ''
+    IOT_KEY: ''
+    S3_KEY: ''

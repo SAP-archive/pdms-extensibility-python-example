@@ -1,0 +1,5 @@
+pandas
+numpy
+boto3
+mle-py-connector-1.9.0-20190418161827+5e749f10a3f2d89bd1c4e06ae54862749455ae94.tar.gz
+scikit-learn
