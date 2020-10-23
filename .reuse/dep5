@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pdms-extensibility-python-example
+Upstream-Contact: Uta Lösch <uta.maria.loesch@sap.com>
+Source: https://github.com/SAP-samples/pdms-extensibility-python-example
+
+Files: *
+Copyright: 2019 Uta Lösch <uta.maria.loesch@sap.com>
+License: Apache-2.0
